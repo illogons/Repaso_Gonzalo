@@ -1,7 +1,7 @@
 package ejercicionuevo;
 
 public class hola {
-	public static void main(System[] args) {
+	public static void main(String[] args) {
 		
 		System.out.println("hola trueba");
 	}
